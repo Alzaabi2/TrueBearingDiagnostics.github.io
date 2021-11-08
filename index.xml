@@ -8,6 +8,15 @@
     <language>en-us</language><atom:link href="http://truebearingdiagnostics.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://truebearingdiagnostics.github.io/about-us.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/about-us.html</guid>
+      <description>#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {top: 1972px;left: -135px;position: absolute;z-index: 58}#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {width: 1367px;height: 41px}#wsb-element-02445d0e-69a5-40fb-8d03-8122eaae2661 {top: 41px;left: -82.5px;position: absolute;z-index: 51}#wsb-element-02445d0e-69a5-40fb-8d03-8122eaae2661 .txt {width: 1260px;height: 117px}#wsb-element-ee4bcf0b-5493-4b68-903a-f7770a6a230f {top: 705px;left: 436px;position: absolute;z-index: 61}#wsb-element-ee4bcf0b-5493-4b68-903a-f7770a6a230f .txt {width: 524px;height: 295px}#wsb-element-44102433-3829-4281-8932-832f0ca463d0 {top: 400px;left: 436px;position: absolute;z-index: 59}#wsb-element-44102433-3829-4281-8932-832f0ca463d0 .txt {width: 542px;height: 227px}#wsb-element-1fd04b26-6280-44d8-9ba2-454d9929d60d {top: 77px;left: -92px;position: absolute;z-index: 97}#wsb-element-1fd04b26-6280-44d8-9ba2-454d9929d60d .</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://truebearingdiagnostics.github.io/announcements/news.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -21,214 +30,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://truebearingdiagnostics.github.io/contact-success.html</guid>
-      <description>#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {
-        top: -3px;
-        left: -135px;
-        position: absolute;
-        z-index: 57
-      }
-
-      #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {
-        width: 300px;
-        height: 24px
-      }
-
-      #wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {
-        top: 9px;
-        left: 820px;
-        position: absolute;
-        z-index: 56
-      }
-
-      #wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .txt {
-        width: 109px;
-        height: 20px
-      }
-
-      #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 {
-        top: 52px;
-        left: 674px;
-        position: absolute;
-        z-index: 3
-      }
-
-      #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 .wsb-button {
-        width: 66px;
-        height: 32px
-      }
-
-      #wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {
-        top: 52px;
-        left: 708px;
-        position: absolute;
-        z-index: 2
-      }
-
-      #wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .wsb-button {
-        width: 66px;
-        height: 32px
-      }
-
-      #wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b {
-        top: 192px;
-        left: 85px;
-        position: absolute;
-        z-index: 47
-      }
-
-      #wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b .</description></item><item><title></title><link>http: //truebearingdiagnostics.github.io/contact-us.html</link>
-      <pubDate>Mon,
-      01 Jan 0001 00:00:00+0000</pubDate><guid>http: //truebearingdiagnostics.github.io/contact-us.html</guid>
-
-      <description>#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {
-        top: -3px;
-        left: -135px;
-        position: absolute;
-        z-index: 57
-      }
-
-      #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {
-        width: 300px;
-        height: 24px
-      }
-
-      #wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {
-        top: 9px;
-        left: 820px;
-        position: absolute;
-        z-index: 56
-      }
-
-      #wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .txt {
-        width: 109px;
-        height: 20px
-      }
-
-      #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 {
-        top: 52px;
-        left: 674px;
-        position: absolute;
-        z-index: 3
-      }
-
-      #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 .wsb-button {
-        width: 66px;
-        height: 32px
-      }
-
-      #wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {
-        top: 52px;
-        left: 708px;
-        position: absolute;
-        z-index: 2
-      }
-
-      #wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .wsb-button {
-        width: 66px;
-        height: 32px
-      }
-
-      #wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b {
-        top: 192px;
-        left: 85px;
-        position: absolute;
-        z-index: 47
-      }
-
-      #wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b .</description></item><item><title></title><link>http: //truebearingdiagnostics.github.io/home.html</link>
-      <pubDate>Mon,
-      01 Jan 0001 00:00:00+0000</pubDate><guid>http: //truebearingdiagnostics.github.io/home.html</guid>
-
-      <description>#wsb-element-df7824e2-69d3-4726-a53d-afc36ce0302d {
-        top: 52px;
-        left: 743px;
-        position: absolute;
-        z-index: 1
-      }
-
-      #wsb-element-df7824e2-69d3-4726-a53d-afc36ce0302d .wsb-button {
-        width: 65px;
-        height: 28px
-      }
-
-      #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {
-        top: -3px;
-        left: -135px;
-        position: absolute;
-        z-index: 57
-      }
-
-      #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {
-        width: 300px;
-        height: 24px
-      }
-
-      #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 {
-        top: 52px;
-        left: 674px;
-        position: absolute;
-        z-index: 3
-      }
-
-      #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 .wsb-button {
-        width: 66px;
-        height: 32px
-      }
-
-      #wsb-element-7be78a54-edf4-4c48-a377-2f306f431e4b {
-        top: 1298px;
-        left: -80px;
-        position: absolute;
-        z-index: 57
-      }
-
-      #wsb-element-7be78a54-edf4-4c48-a377-2f306f431e4b .</description></item><item><title></title><link>http: //truebearingdiagnostics.github.io/our-lead-product.html</link>
-      <pubDate>Mon,
-      01 Jan 0001 00:00:00+0000</pubDate><guid>http: //truebearingdiagnostics.github.io/our-lead-product.html</guid>
-
-      <description>#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b {
-        top: 192px;
-        left: 85px;
-        position: absolute;
-        z-index: 47
-      }
-
-      #wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b .wsb-line-element {
-        width: 925px;
-        height: 20px
-      }
-
-      #wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {
-        top: 9px;
-        left: 820px;
-        position: absolute;
-        z-index: 56
-      }
-
-      #wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .txt {
-        width: 109px;
-        height: 20px
-      }
-
-      #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {
-        top: -3px;
-        left: -135px;
-        position: absolute;
-        z-index: 57
-      }
-
-      #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {
-        width: 300px;
-        height: 24px
-      }
-
-      #wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {
-        top: 52px;
-        left: 708px;
-        position: absolute;
-        z-index: 2
-      }
-#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .</description>
+      <description>#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {top: -3px;left: -135px;position: absolute;z-index: 57}#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {width: 300px;height: 24px}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {top: 9px;left: 820px;position: absolute;z-index: 56}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .txt {width: 109px;height: 20px}#wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 {top: 52px;left: 674px;position: absolute;z-index: 3}#wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 .wsb-button {width: 66px;height: 32px}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {top: 52px;left: 708px;position: absolute;z-index: 2}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .wsb-button {width: 66px;height: 32px}#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b {top: 192px;left: 85px;position: absolute;z-index: 47}#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/contact-us.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/contact-us.html</guid>
+      <description>#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {top: -3px;left: -135px;position: absolute;z-index: 57}#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {width: 300px;height: 24px}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {top: 9px;left: 820px;position: absolute;z-index: 56}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .txt {width: 109px;height: 20px}#wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 {top: 52px;left: 674px;position: absolute;z-index: 3}#wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 .wsb-button {width: 66px;height: 32px}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {top: 52px;left: 708px;position: absolute;z-index: 2}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .wsb-button {width: 66px;height: 32px}#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b {top: 192px;left: 85px;position: absolute;z-index: 47}#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/home.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/home.html</guid>
+      <description>#wsb-element-df7824e2-69d3-4726-a53d-afc36ce0302d { top: 52px; left: 743px; position: absolute; z-index: 1 } #wsb-element-df7824e2-69d3-4726-a53d-afc36ce0302d .wsb-button { width: 65px; height: 28px } #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 { top: -3px; left: -135px; position: absolute; z-index: 57 } #wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt { width: 300px; height: 24px } #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 { top: 52px; left: 674px; position: absolute; z-index: 3 } #wsb-element-3b4e9396-9b38-4890-b257-7d06d9bccc48 .wsb-button { width: 66px; height: 32px } #wsb-element-7be78a54-edf4-4c48-a377-2f306f431e4b { top: 1298px; left: -80px; position: absolute; z-index: 57 } #wsb-element-7be78a54-edf4-4c48-a377-2f306f431e4b .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/our-lead-product.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/our-lead-product.html</guid>
+      <description>#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b {top: 192px;left: 85px;position: absolute;z-index: 47}#wsb-element-25d5d58c-5ad7-4e6d-9a71-284fcf0f617b .wsb-line-element {width: 925px;height: 20px}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {top: 9px;left: 820px;position: absolute;z-index: 56}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .txt {width: 109px;height: 20px}#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {top: -3px;left: -135px;position: absolute;z-index: 57}#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .txt {width: 300px;height: 24px}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {top: 52px;left: 708px;position: absolute;z-index: 2}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .</description>
     </item>
     
     <item>
@@ -237,59 +66,43 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://truebearingdiagnostics.github.io/recent-announcements.html</guid>
-      <description>#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {
-        top: 1972px;
-        left: -135px;
-        position: absolute;
-        z-index: 58
-      }
-
-      #wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {
-        width: 1367px;
-        height: 41px
-      }
-
-      #wsb-element-7c9db887-7fd4-4633-a406-25e25fbbc738 {
-        top: 961px;
-        left: 24px;
-        position: absolute;
-        z-index: 84
-      }
-
-      #wsb-element-7c9db887-7fd4-4633-a406-25e25fbbc738div {}
-
-      #wsb-element-7c9db887-7fd4-4633-a406-25e25fbbc738 .youtube {
-        width: 857px;
-        height: 490px
-      }
-
-      #wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f {
-        top: 40px;
-        left: 831px;
-        position: absolute;
-        z-index: 55
-      }
-
-      #wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f .wsb-image-inner {}
-
-      #wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f .wsb-image-inner div {
-        width: 98px;
-        height: 35px;
-        position: relative;
-        overflow: hidden
-      }
-
-      #wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f img {
-        position: absolute
-      }
-
-      #wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {
-        top: 52px;
-        left: 708px;
-        position: absolute;
-        z-index: 2
-      }
-#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .</description>
+      <description>#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {top: 1972px;left: -135px;position: absolute;z-index: 58}#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {width: 1367px;height: 41px}#wsb-element-7c9db887-7fd4-4633-a406-25e25fbbc738 {top: 961px;left: 24px;position: absolute;z-index: 84}#wsb-element-7c9db887-7fd4-4633-a406-25e25fbbc738div {}#wsb-element-7c9db887-7fd4-4633-a406-25e25fbbc738 .youtube {width: 857px;height: 490px}#wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f {top: 40px;left: 831px;position: absolute;z-index: 55}#wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f .wsb-image-inner {}#wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f .wsb-image-inner div {width: 98px;height: 35px;position: relative;overflow: hidden}#wsb-element-85017278-0b0a-44a8-b4df-216c204cb29f img {position: absolute}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 {top: 52px;left: 708px;position: absolute;z-index: 2}#wsb-element-306025ee-9daf-4fa3-a71e-77093b298692 .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/scientific-advisory-board.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/scientific-advisory-board.html</guid>
+      <description>#wsb-element-97805137-041d-4901-a528-3723648831e5 {top: 1224px;left: 305px;position: absolute;z-index: 74}#wsb-element-97805137-041d-4901-a528-3723648831e5 .txt {width: 692px;height: 198px}#wsb-element-316a56f6-1401-4210-b252-80d05144ded7 {top: 327px;left: 312px;position: absolute;z-index: 72}#wsb-element-316a56f6-1401-4210-b252-80d05144ded7 .txt {width: 719px;height: 330px}#wsb-element-169ba9b8-9ce6-4f61-abef-4d3d443972fd {top: 311px;left: 14px;position: absolute;z-index: 69}#wsb-element-169ba9b8-9ce6-4f61-abef-4d3d443972fd .wsb-image-inner {}#wsb-element-169ba9b8-9ce6-4f61-abef-4d3d443972fd .wsb-image-inner div {width: 252px;height: 251.28px;position: relative;overflow: hidden}#wsb-element-169ba9b8-9ce6-4f61-abef-4d3d443972fd img {position: absolute}#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 {top: -3px;left: -135px;position: absolute;z-index: 57}#wsb-element-bd300ed7-1107-41a1-aa06-1f2f33e116b9 .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/steps-to-market.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/steps-to-market.html</guid>
+      <description>#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {top: 1972px;left: -135px;position: absolute;z-index: 58}#wsb-element-1f168b41-72c2-4c68-8ba1-051b9863cde1 {width: 1367px;height: 41px}#wsb-element-b1e636ab-8021-492d-abd5-3917bc47593d {top: 77px;left: -94px;position: absolute;z-index: 96}#wsb-element-b1e636ab-8021-492d-abd5-3917bc47593d .wsb-image-inner {}#wsb-element-b1e636ab-8021-492d-abd5-3917bc47593d .wsb-image-inner div {width: 163px;height: 127.31px;position: relative;overflow: hidden}#wsb-element-b1e636ab-8021-492d-abd5-3917bc47593d img {position: absolute}#wsb-element-f0438d27-63dd-40cd-943e-fa5b1db04a80 {top: 202.32px;left: -124px;position: absolute;z-index: 11}#wsb-element-f0438d27-63dd-40cd-943e-fa5b1db04a80 {width: 1191px;height: 58px}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf {top: 9px;left: 820px;position: absolute;z-index: 56}#wsb-element-b6575aef-af1b-4d98-9fa4-89567e252caf .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/trucad.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/trucad.html</guid>
+      <description>#header0 { top: 353px; left: -109px; position: absolute; z-index: 83 } #header0 .txt { width: 784px; height: 538px } #header1 { top: 858px; left: 471px; position: absolute; z-index: 67 } #header1 .wsb-image-inner {} #header1 .wsb-image-inner div { width: 585px; height: 414.32px; position: relative; overflow: hidden } #header1 img { position: absolute } #header2 { top: 1972px; left: -135px; position: absolute; z-index: 58 } #header2 { width: 1367px; height: 41px } #header3 { top: 367px; left: 727.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://truebearingdiagnostics.github.io/trunav.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://truebearingdiagnostics.github.io/trunav.html</guid>
+      <description>#header0 { top: 353px; left: -109px; position: absolute; z-index: 83 } #header0 .txt { width: 784px; height: 538px } #header1 { top: 858px; left: 471px; position: absolute; z-index: 67 } #header1 .wsb-image-inner {} #header1 .wsb-image-inner div { width: 585px; height: 414.32px; position: relative; overflow: hidden } #header1 img { position: absolute } #header2 { top: 1972px; left: -135px; position: absolute; z-index: 58 } #header2 { width: 1367px; height: 41px } #header3 { top: 367px; left: 727.</description>
     </item>
     
   </channel>
